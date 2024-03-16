@@ -61,7 +61,7 @@ Rhodvickez Bot Multi Device is a whatsapp bot developed by <a href="https://gith
 - FORK THE REPOSITORY [Here](https://github.com/Rhodvick/RHODVICKEZ-MD/fork)
 
 ## `Generate Pair Code For Session`
-[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Rhodvick/Rhodvick-PairCode)
+[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Rhodvick/rhodvickezkelly-PairCode)
 
 ## ` BUILDPACKS`
 
