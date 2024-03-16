@@ -61,7 +61,7 @@ Rhodvickez Bot Multi Device is a whatsapp bot developed by <a href="https://gith
 - FORK THE REPOSITORY [Here](https://github.com/Rhodvick/RHODVICKEZ-MD/fork)
 
 ## `Generate Pair Code For Session`
-[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGxeon/Xeon-PairCode)
+[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Rhodvick/Rhodvick-PairCode)
 
 ## ` BUILDPACKS`
 
@@ -70,7 +70,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD11/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rhodvick/RHODVICKEZ-MD11/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -81,8 +81,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD11.git
-cd CheemsBot-MD11
+git clone https://github.com/Rhodvick/RHODVICKEZ-MD11.git
+cd RHODVICKEZ-MD11
 
 npm start
 ```
@@ -98,7 +98,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD11
+git clone https://github.com/Rhodvick/RHODVICKEZ-MD11
 cd CheemsBot-MD11
 yarn install
 npm start
@@ -111,8 +111,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD11
-cd CheemsBot-MD11
+git clone https://github.com/Rhodvick/RHODVICKEZ-MD11
+cd RHODVICKEZ-MD11
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
