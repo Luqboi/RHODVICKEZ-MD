@@ -1,30 +1,30 @@
  
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩11ꫂ<br></h1>
+<h1 align="center">ꪶRHODVICKEZ-MD 𝗩11ꫂ<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/RC7JWDj/e258b5ae2b1cf8195d33743570dbe498.jpg" />
+<img src="https://telegra.ph/file/25b60ba1474cffb21969c.jpg" />
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a whatsapp bot developed by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Rhodvickez Bot Multi Device is a whatsapp bot developed by <a href="https://github.com/Rhodvick" target="_blank">Rhodvick</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
-<a href="https://youtu.be/mu5m6aB6P5k"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://www.youtube.com/@Rhodvick"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 ------
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD11?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD11?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD11?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD11?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD11&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD11/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Rhodvick/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rhodvick?color=red&style=flat-square"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rhodvick/RHODVICKEZ-MD11?color=blue&style=flat-square"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rhodvick/RHODVICKEZ-MD11?color=red&style=flat-square"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rhodvick/RHODVICKEZ-MD11?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11"><img title="Open Source" src="https://img.shields.io/badge/Author-Rhodvick%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/"><img title="Size" src="https://img.shields.io/github/repo-size/Rhodvick/RHODVICKEZ-MD11?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRhodvick%2FRHODVICKEZ-MD11&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -33,17 +33,16 @@ Cheems Bot Multi Device is a whatsapp bot developed by <a href="https://github.c
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://youtube.com/@DGXeon"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
-<a href="https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
-<a href="https://t.me/xeonbotinc"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://youtube.com/@Rhodvick"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@Rhodvick" /><br>
+<a href="https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/Rhodvickezkelly"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/unicorn_xeon13?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/unicorn_rhodvickjunior?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 ## ```Donate Me```
 
 - [`Binance`](https://i.ibb.co/W2gYn6S/binance.png)
-- [`PayPal`](https://www.paypal.me/josephxeon13)
+- [`PayPal`](https://www.paypal.me/rhodvickezkelly34)
 - [`GooglePay`](https://i.ibb.co/yQkqBS2/donate.png)
 - [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
 
@@ -59,10 +58,10 @@ Cheems Bot Multi Device is a whatsapp bot developed by <a href="https://github.c
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD11/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Rhodvick/RHODVICKEZ-MD/fork)
 
 ## `Generate Pair Code For Session`
-[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Xeon-PairCode)
+[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGxeon/Xeon-PairCode)
 
 ## ` BUILDPACKS`
 
