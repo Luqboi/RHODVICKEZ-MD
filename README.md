@@ -18,13 +18,13 @@ Rhodvickez Bot Multi Device is a whatsapp bot developed by <a href="https://gith
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/Rhodvick/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rhodvick?color=red&style=flat-square"></a>
-<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rhodvick/RHODVICKEZ-MD11?color=blue&style=flat-square"></a>
-<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rhodvick/RHODVICKEZ-MD11?color=red&style=flat-square"></a>
-<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rhodvick/RHODVICKEZ-MD11?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11"><img title="Open Source" src="https://img.shields.io/badge/Author-Rhodvick%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/"><img title="Size" src="https://img.shields.io/github/repo-size/Rhodvick/RHODVICKEZ-MD11?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRhodvick%2FRHODVICKEZ-MD11&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Rhodvick/RHODVICKEZ-MD11/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rhodvick/RHODVICKEZ-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rhodvick/RHODVICKEZ-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rhodvick/RHODVICKEZ-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Rhodvick%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Rhodvick/RHODVICKEZ-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRhodvick%2FRHODVICKEZ-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
