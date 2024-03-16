@@ -1,4 +1,4 @@
- 
+
 
 <h1 align="center">ꪶRHODVICKEZ-MD 𝗩11ꫂ<br></h1>
 <p align="center">
@@ -61,7 +61,7 @@ Rhodvickez Bot Multi Device is a whatsapp bot developed by <a href="https://gith
 - FORK THE REPOSITORY [Here](https://github.com/Rhodvick/RHODVICKEZ-MD/fork)
 
 ## `Generate Pair Code For Session`
-[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@rhodvickezkelly/xeon-PairCode)
+[![Rhodvick](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@rhodvickezkelly/Rhodvick-PairCode)
 
 ## ` BUILDPACKS`
 
@@ -70,7 +70,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rhodvick/RHODVICKEZ-MD11/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rhodvick/RHODVICKEZ-MD/)
 
 # Install Manually 👇
 ## `Requirements`
