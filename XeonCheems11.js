@@ -1,11 +1,11 @@
-//base by DGXeon
+//base by Rhodvick
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
+//YouTube: @Rhodvick
+//Instagram: rhodvickjunior
 //Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//GitHub: @Rhodvick
+//WhatsApp: +254115790827
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Rhodvick
 
 require('./lib/listmenu')
 const {
@@ -144,9 +144,9 @@ let vote = db.data.others.vote = []
 let kuismath = db.data.game.math = []
 
 //time
-const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
-const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
+const xtime = moment.tz('Africa/Nairobi').format('HH:mm:ss')
+const xdate = moment.tz('Africa/Nairobi').format('DD/MM/YYYY')
+const time2 = moment().tz('Africa/Nairobi').format('HH:mm:ss')  
 if(time2 < "23:59:00"){
 var xeonytimewisher = `Good Night 🌌`
  }
@@ -496,7 +496,7 @@ return arr[Math.floor(Math.random() * arr.length)]
                if (!('autorecord' in setting)) setting.autorecord = false
                if (!('autotype' in setting)) setting.autotype = false
                if (!('autoblocknum' in setting)) setting.autoblocknum = false
-               if (!('onlyindia' in setting)) setting.onlyindia = false
+               if (!('onlykenya' in setting)) setting.onlykenya = false
                if (!('onlyindo' in setting)) setting.onlyindo = false
                if (!('onlygrub' in setting)) setting.onlygrub = false
                if (!('onlypc' in setting)) setting.onlypc = false
